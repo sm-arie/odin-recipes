@@ -1,3 +1,47 @@
+* {
+    font-family: "Tahoma", sans-serif;
+    background-color: #EFF7F7;
+    color: #404040;
+    margin-inline: 10px;
+}
+
+h1, h2, h3 {
+    font-weight: 800;
+    color: #A20050;
+}
+
 h1 {
-    color: red;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 22px;
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+a {
+    color: #0066C6;
+}
+
+li {
+    color: #A20050;
+    font-weight: 800;
+}
+
+li span {
+    color: #404040;
+    font-weight: normal;
+}
+
+ul {
+    font-size: 14px;
+}
+
+ol li {
+    margin-bottom: 16px;
 }
